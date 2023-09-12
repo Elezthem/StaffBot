@@ -1,0 +1,2 @@
+# StaffBot
+Discord bot staff
